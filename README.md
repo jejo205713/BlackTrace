@@ -27,6 +27,12 @@ BlackTrace is effective against:
 
 ---
 
+## 📷 Working
+
+![Working](https://github.com/jejo205713/BlackTrace/blob/main/working.png)
+
+---
+
 ## 🚀 Installation
 
 ### 1. Clone the Repository
