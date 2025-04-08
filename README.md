@@ -24,11 +24,7 @@ BlackTrace is effective against:
 - Foreign IP persistence connections
 - Suspicious ports like `4444`, `1337`, `31337`, etc.
 - Unauthorized outbound traffic
-
----
-
-## 📷 Working
-
+  
 ![Working](https://github.com/jejo205713/BlackTrace/blob/main/working.png)
 
 ---
